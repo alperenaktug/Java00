@@ -69,6 +69,7 @@ public class Variables {
         System.out.println("My name is : " + name);
         System.out.println("My favourite food : " + food);
         System.out.println("My favourite color is : " + color);
+        System.out.println("This is my " + car);
 
 
 
