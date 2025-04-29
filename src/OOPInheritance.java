@@ -2,7 +2,7 @@ public class OOPInheritance {
     public static void main(String[] args) {
 
         // Inheritance = Bir sınıfın metotlarını ve nitelikleriniz başka bir alt sınıfa
-        //               miras bırakma işlemidir .
+        //               miras bırakma işlemidir . alt sınıfa subclass , üst sınıfa superclass da denir.
 
 
         Dog dog  = new Dog();
